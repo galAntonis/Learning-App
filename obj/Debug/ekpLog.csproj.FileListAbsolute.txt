@@ -1,0 +1,96 @@
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\ekpLog.exe.config
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\ekpLog.exe
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\ekpLog.pdb
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.AssemblyReference.cache
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.SuggestedBindingRedirects.cache
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.Form1.resources
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.Properties.Resources.resources
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.GenerateResource.cache
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.CoreCompileInputs.cache
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.exe
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.pdb
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.CopyComplete
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.Form2.resources
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.MainForm.resources
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\Spire.Pdf.dll
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Asp.dll
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\Microsoft.mshtml.dll
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\Spire.Pdf.xml
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Asp.xml
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\Interop.Acrobat.dll
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.ResolveComReference.cache
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\galeo\source\repos\ekpLog\ekpLog\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.Test.resources
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.Scores.resources
+C:\Users\galeo\source\repos\ekpLog\ekpLog\obj\Debug\ekpLog.Orientation.resources
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.exe
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.pdb
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.AssemblyReference.cache
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\Interop.Acrobat.dll
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\Interop.AcroPDFLib.dll
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.ResolveComReference.cache
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.Form1.resources
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.Form2.resources
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.MainForm.resources
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.Orientation.resources
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.Properties.Resources.resources
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.Scores.resources
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.Test.resources
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.GenerateResource.cache
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.CoreCompileInputs.cache
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\ekpLog.exe.config
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\ekpLog.exe
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\ekpLog.pdb
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\Spire.Pdf.dll
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Asp.dll
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Forms.dll
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\Microsoft.mshtml.dll
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\Spire.Pdf.xml
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Asp.xml
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Forms.xml
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.CopyComplete
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.Form3.resources
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.Form4.resources
+D:\Chrome Downloads\Ekp_Log\ekpLog\ekpLog\obj\Debug\ekpLog.Form5.resources
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\ekpLog.exe.config
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\ekpLog.exe
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\ekpLog.pdb
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\Spire.Pdf.dll
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Asp.dll
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\Microsoft.mshtml.dll
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\Spire.Pdf.xml
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Asp.xml
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.AssemblyReference.cache
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.SuggestedBindingRedirects.cache
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\Interop.Acrobat.dll
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.ResolveComReference.cache
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.Form1.resources
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.Form2.resources
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.Form3.resources
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.Form4.resources
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.Form5.resources
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.MainForm.resources
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.Orientation.resources
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.Properties.Resources.resources
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.Scores.resources
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.Test.resources
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.GenerateResource.cache
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.CoreCompileInputs.cache
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.csproj.CopyComplete
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.exe
+C:\Users\galeo\Downloads\EK\ekpLog\ekpLog\obj\Debug\ekpLog.pdb
